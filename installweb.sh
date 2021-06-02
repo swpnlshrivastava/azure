@@ -1,2 +1,2 @@
-yum update -y && apt-get upgrade -y
+yum update -y && yum upgrade -y
 yum install -y nginx
